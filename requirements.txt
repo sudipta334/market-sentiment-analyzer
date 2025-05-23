@@ -1,0 +1,6 @@
+langchain
+langfuse
+openai
+python-dotenv
+requests
+langchain-openai
